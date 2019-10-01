@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/jenhalvorsen/javascriptnode/issues"
   },
-  "homepage": "https://github.com/jenhalvorsen/javascriptnode#readme"
+  "homepage": "https://github.com/jenhalvorsen/javascriptnode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
