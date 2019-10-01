@@ -1,0 +1,25 @@
+{
+  "name": "javascriptnode",
+  "version": "1.0.0",
+  "description": "java script description",
+  "main": "server.js",
+  "scripts": {
+    "test": "test kommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenhalvorsen/javascriptnode.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "web",
+    "fun"
+  ],
+  "author": "jens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenhalvorsen/javascriptnode/issues"
+  },
+  "homepage": "https://github.com/jenhalvorsen/javascriptnode#readme"
+}
